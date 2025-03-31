@@ -4,6 +4,7 @@ This is a sample project that contains (almost) equivalent implementations of an
 
 The tool used to compile and run this project is [sbt](https://www.scala-sbt.org/), which
 is a build tool similar to Maven, Gradle, and similar tools, but specifically tailored for Scala and Java.
+The recommended way to install ```sbt``` and related tools is via [Coursier](https://get-coursier.io/docs/cli-installation).
 
 To run the Scala version, install sbt and run:
 ```
